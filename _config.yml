@@ -8,8 +8,8 @@ github: https://github.com/himyue/
 baseurl: ""
 description: Actually, less is more!
 meta_description: 马跃;个人博客;生命不止;折腾不休;看清生活;热爱生活
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+motto: 世上只有一种英雄主义
+banner: 人生如逆旅，我亦是行人
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
